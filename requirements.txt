@@ -1,0 +1,23 @@
+# Web Server
+fastapi
+uvicorn
+python-multipart
+
+# AI & NLP
+sentence-transformers>=5.4.1
+transformers<6.0.0
+faiss-cpu
+rapidfuzz
+
+# Document Processing & OCR
+PyMuPDF>=1.27.2
+easyocr>=1.7.2
+pdf2image
+
+# Data Science & Math
+numpy>=1.26.4,<2.0.0
+scikit-learn>=1.8.0
+pandas
+
+# Utilities
+rich>=14.1.0

@@ -1,0 +1,20 @@
+# Environments
+venv/
+.venv/
+
+# Python clutter
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Binaries & Models
+models/
+poppler-25.12.0/
+
+# Temporary data
+temp_uploads/
+temp_*.pdf
+
+# Secrets
+serviceAccountKey.json
+.env
