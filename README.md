@@ -1,4 +1,4 @@
-# ON PAUSE (V2 will be available after AI-Resume-Generator is done)
+# HISTORY - DISCONTINUED (Project parts and implementation used for another version of the backend project)
 # AI-Resume-Matching-Backend
 Backend for AI-Based Resume Job Matching and Skill Gap Detection Using Transformer Embeddings and Cosine Similarity
 
